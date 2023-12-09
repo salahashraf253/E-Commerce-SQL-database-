@@ -4,6 +4,10 @@
 
 This database is designed to support an e-commerce platform, managing various entities such as buyers, sellers, categories, products, cart items, orders, and product reviews. The inclusion of a language table facilitates multi-language support for translations.
 
+## Entity Relationship Diagram (ERD)
+
+![ERD](https://github.com/salahashraf253/E-Commerce-SQL-database-/blob/main/erd.png)
+
 ## Tables
 
 ### 1. Buyer
